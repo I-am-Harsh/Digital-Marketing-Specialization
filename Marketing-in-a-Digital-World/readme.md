@@ -1,2 +1,4 @@
-:smile_cat: :smile_cat: :smile_cat: :smile_cat: :smile_cat: :smile_cat: :smile_cat: :smile_cat: :smile_cat:
-![cert_atena](https://user-images.githubusercontent.com/7158671/35613363-8715884e-0674-11e8-84f6-5dd972dc10c4.png)
+This is the work of GitHub user Daiaatena https://github.com/Daiaatena/Digital-Marketing-Specialization.
+
+I have included quiz answers to each quiz of the week and you can find them in the sub-folders.
+The answers are in word document format, some of them have screenshot of the right answers while some of them have right answers written in a number format.
